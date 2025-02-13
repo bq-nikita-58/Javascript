@@ -50,7 +50,6 @@ const str3 = `hello my name is ${name}. Nice to meet you. I am ${1 + 20} years o
 console.log(str3); 
 
  
-
 //-----------------------------------------------------------------------
 
 // Numbers: contain number, whole number, decimal(float)
@@ -78,7 +77,6 @@ console.log(Math.random(19.2));
 console.log(100 ** 2);
 
 
-
 //-----------------------------------------------------------------------
 
 // Bollean: A boolean is either true or false.
@@ -92,7 +90,6 @@ console.log(ofAge);     //false
 "10" === 10       // false  (as  === always checks that the value and type are exactly the same.)
 
 
-
 //-----------------------------------------------------------------------
 
 // Objects : It is used to group things together.
@@ -104,7 +101,6 @@ const details ={
 };
 console.log(details);
 console.log(details.fname);
-
 
 
 //-----------------------------------------------------------------------
