@@ -1,0 +1,34 @@
+    .hover-box {
+      width: 200px;
+      height: 100px;
+      background-color: lightblue;
+      margin: 20px;
+      text-align: center;
+      padding: 20px;
+    }
+    .keypress-output {
+      margin-top: 20px;
+      font-size: 1.5rem;
+    }
+    .color-box {
+      width: 100px;
+      height: 100px;
+      margin-top: 20px;
+      background-color: green;
+    }
+    #drag-box {
+      width: 100px;
+      height: 100px;
+      background-color: lightgreen;
+      margin-top: 20px;
+      cursor: pointer;
+    }
+    #drop-area {
+      width: 200px;
+      height: 150px;
+      background-color: #f0f0f0;
+      margin-top: 20px;
+      border: 2px dashed #ccc;
+      text-align: center;
+      line-height: 150px;
+    }

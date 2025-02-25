@@ -1,0 +1,25 @@
+JavaScript is a programming language used to make websites interactive and dynamic. 
+It's lightweight, works across different devices and platforms, and runs one line of code at a time.
+JavaScript is an interpreted language that executes code line by line providing more flexibility.
+JavaScript helps us add features  like animations, interactive forms and dynamic content to web pages. 
+
+
+Different ways to write javascript:
+  1. Scripts can be placed in the <body> between <script> and </script> tags.
+  2. Scripts can be placed in the <head>
+  3. Scripts can also be placed in external files.
+
+
+External JavaScript:-
+External scripts are practical when the same code is used in many different web pages.
+
+
+To use an external script, put the name of the script file in the src (source) attribute of a <script> tag: 
+<script src="myScript.js"></script> 
+And place an external script reference in <head> or <body>.
+
+
+JavaScript Values:- 
+The JavaScript syntax defines two types of values:
+1. Fixed values (Literals)
+2. Variable values (Variables)
